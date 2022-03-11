@@ -91,6 +91,15 @@ The following example is using the `tomorrow-night` colorscheme:
 <img width='700' src='https://user-images.githubusercontent.com/41551030/108648675-22b6a180-74bc-11eb-9b8e-45e64a03e062.png'/>
 </p>
 
+### evilwolf
+A theme inspired by badwolf
+<p>
+<img width='700' src='https://user-images.githubusercontent.com/1009657/157838027-902a3893-1867-47e4-ac47-70b00cafe245.png'/>
+<img width='700' src='https://user-images.githubusercontent.com/1009657/157838022-70c5136f-0322-4aee-8e0e-f60881562ea1.png'/>
+<img width='700' src='https://user-images.githubusercontent.com/1009657/157838033-508f2a2e-bffc-4577-b20b-e17a54f73bd2.png'/>
+<img width='700' src='https://user-images.githubusercontent.com/1009657/157838032-471efcd2-6efd-482a-9150-720606babf31.png'/>
+</p>
+
 ### gruvbox_dark
 
 <p>
